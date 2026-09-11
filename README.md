@@ -1,3 +1,3 @@
 # kokko-training
 # これは練習です！
-# Claude Codeすごい
+# Claude Code
