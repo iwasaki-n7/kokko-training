@@ -1,3 +1,2 @@
 # kokko-training
-# これは練習です！
-# Claude Code　
+# GitHubの画面で編集中
