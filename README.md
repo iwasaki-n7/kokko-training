@@ -1,2 +1,2 @@
 # kokko-training
-# GitHubの画面で編集中
+# コンフリクト実験中
